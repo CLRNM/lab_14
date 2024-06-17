@@ -1,0 +1,16 @@
+# ninja log v6
+5	53	7403465826059013	CMakeFiles/lab_14.dir/main.c.obj	cf6b2b376216f2f2
+5	110	7403465124398531	CMakeFiles/lab_14.dir/libs/data_structures/vector/vector.c.obj	b5d162838389d7a8
+53	111	7403465826541504	lab_14.exe	385c3c4f607213dd
+1	185	7403467119753492	build.ninja	121f1b1cd913b33
+4	59	7403467889920505	CMakeFiles/lab_14.dir/main.c.obj	cf6b2b376216f2f2
+8	64	7403467889959418	CMakeFiles/lab_14.dir/libs/data_structures/vector/vector.c.obj	b5d162838389d7a8
+64	123	7403467890519331	lab_14.exe	385c3c4f607213dd
+3	58	7403473160296878	CMakeFiles/lab_14.dir/main.c.obj	cf6b2b376216f2f2
+8	61	7403473160344430	CMakeFiles/lab_14.dir/libs/data_structures/vector/vector.c.obj	b5d162838389d7a8
+62	123	7403473160874659	lab_14.exe	385c3c4f607213dd
+3	59	7403474805854809	CMakeFiles/lab_14.dir/main.c.obj	cf6b2b376216f2f2
+7	61	7403474805900491	CMakeFiles/lab_14.dir/libs/data_structures/vector/vector.c.obj	b5d162838389d7a8
+61	122	7403474806440778	lab_14.exe	385c3c4f607213dd
+6	59	7403475547519703	CMakeFiles/lab_14.dir/main.c.obj	cf6b2b376216f2f2
+60	122	7403475548061640	lab_14.exe	385c3c4f607213dd
